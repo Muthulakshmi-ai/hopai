@@ -12,7 +12,7 @@ These assignments cover various fundamental and advanced concepts in Artificial 
 
 **How to Run**
 To run the code:
-Clone the repository: 
+Clone the repository: https://github.com/Muthulakshmi-ai/hopai.git
 
 **Assignment List**
 
